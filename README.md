@@ -1,4 +1,4 @@
-# Mac-changer
+# Simplified-mac-changer
 mac changer coded by Xaxeric
 ## Attention!! This Script ,Only work for linux !!
 ### To use:
