@@ -10,8 +10,6 @@ def pause(): #pause function
 def clear(): #clear function
     if sys.platform.startswith('linux'):
         os.system('clear')
-    elif sys.platform.startswith('freebsd'):
-        os.system('clear')
     else:
         os.system('cls')
 
