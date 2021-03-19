@@ -1,5 +1,5 @@
 # Simplified-mac-changer
-mac changer coded by Xaxeric V1.0
+simplified-mac-changer coded by Xaxeric V1.0
 ## Attention!! This Script ,Only work for linux !!
 ### To use:
 1. apt-get install macchanger
