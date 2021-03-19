@@ -1,8 +1,8 @@
 # Simplified-mac-changer
 simplified-mac-changer coded by Xaxeric V1.0
 ## Attention!! This Script ,Only work for linux !!
-### To use:
-1. apt-get install macchanger
+### Installation:
+1. sudo apt-get install macchanger
 2. git clone https://github.com/SystemOfPekalongan/Simplified-mac-changer.git && cd Simplified-mac-changer
 3. python3 main.py
 ---
